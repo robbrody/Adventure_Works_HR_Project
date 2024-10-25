@@ -14,7 +14,7 @@ Below are the questions I looked to answer in this project:
 
 3. Are there any opportunities to optimize Adventure Works's hiring practices based on the data?
 
-4. What are the potential enhancements to the dashboard that could maximize its value for decision-making?
+4. What potential enhancements could maximize the dashboard's value for decision-making?
 
 ## Tools Used for the Analysis
 
@@ -28,6 +28,6 @@ I used the following tools for this analysis:
     * **Funcformatter**: To format text for plots.
     * **Pyodbc**: Used to load data from SQL server.
     * **Panel**: To create dashboards in Python.
-* **Jupyter Notebooks**: Tool used to run Python scripts, and easily include notes and analysis.
-* **Visual Studio Code**: Program for executing Python scripts.
-* **Git & GitHub**: Version control and sharing Python code and analysis.
+* **Jupyter Notebooks**: A tool for running Python scripts and easily including notes and analysis.
+* **Visual Studio Code**: A program for executing Python scripts.
+* **Git & GitHub**: For version control and sharing Python code and analysis.
