@@ -1,3 +1,5 @@
+![GIF of Dashboard]()
+
 # Overview 
 ## Introduction
 In this project, I set out to analyze a custom Human Resources dataset derived from the Adventure Works 2022 dataset in Microsoft SQL Server. This involved creating a comprehensive SQL view that integrated data from 11 different tables, resulting in a robust dataset comprising 31 columns related to employee information. By importing this dataset into Python, I was able to clean and preprocess the data effectively, eliminating duplicate employee entries and ensuring accuracy in capturing the most recent department and pay information.
