@@ -1,4 +1,4 @@
-![GIF of Dashboard]()
+![GIF of Dashboard](images/AW_HR_Dashboard.gif)*Dashboard cycles through selections*
 
 # Overview 
 ## Introduction
